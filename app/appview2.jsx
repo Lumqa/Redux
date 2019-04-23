@@ -57,7 +57,7 @@ class AppView2 extends React.Component {
         return <div>
             <WForm addW={this.props.addW}/>
             <WList {...this.props} />
-            <a>zxczxc</a>
+            <a>qweqwe</a>
     </div>
   }
 };
