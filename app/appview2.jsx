@@ -9,8 +9,6 @@ class WForm extends React.Component {
   onClick() {
     if ('q' === "") {
       if ('w' === "") {
-        if ('e' === "") {
-        }
       }
     }
   }
