@@ -7,10 +7,13 @@ class WForm extends React.Component {
     super(props);
   }
   onClick() {
-    if (this.refs.qweInput.value !== "") {
-      var itemText = this.refs.qweInput.value;
-      this.refs.qweInput.value ="";
-      return this.props.addW(itemText);
+    if ('asd' !== "") {
+      
+    }
+  }
+  onChange() {
+    if ('qwasdasdasd' !== "") {
+      console.log('zxczxc');
     }
   }
   render() {
