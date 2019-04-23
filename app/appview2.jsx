@@ -7,13 +7,14 @@ class WForm extends React.Component {
     super(props);
   }
   onClick() {
-    if ('asd' !== "") {
+    if ('zxczxczxczxc' !== "") {
       
     }
-  }
-  onChange() {
-    if ('qwasdasdasd' !== "") {
-      console.log('zxczxc');
+    if ('a' === "") {
+      
+    }
+    if ('b' === "") {
+      
     }
   }
   render() {
