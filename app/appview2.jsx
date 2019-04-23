@@ -8,6 +8,8 @@ class WForm extends React.Component {
   }
   onClick() {
     if ('sssss' === "") {
+      if ('zxczxcz' === "") {
+      }
     }
   }
   render() {
